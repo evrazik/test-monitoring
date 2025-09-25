@@ -36,7 +36,7 @@ The following variables can be modified in the scripts to customize their behavi
 If you encounter any issues while using these scripts, please check the following:
 
 - Verify that the monitoring script has the necessary permissions to access files and directories it requires.
-- Make sure that API requests are being sent to the correct URL and that the server is reachable.
+- Make sure that API requests are being sent to the correct URL and that the server is reachable. 
 
 ## License
 
